@@ -1,6 +1,6 @@
 {
   "name": "cards-sorter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Traveler Card Sorter",
   "main": "index.js",
   "directories": {
