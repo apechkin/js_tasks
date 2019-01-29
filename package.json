@@ -7,9 +7,6 @@
     "lib": "lib",
     "test": "test"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apechkin/js_tasks.git"
@@ -23,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/apechkin/js_tasks/issues"
   },
-  "homepage": "https://github.com/apechkin/js_tasks#readme"
+  "homepage": "https://github.com/apechkin/js_tasks#readme",
+  "engines": {
+    "node": ">=8"
+  }
 }
