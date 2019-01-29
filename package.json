@@ -1,0 +1,27 @@
+{
+  "name": "cards-sorter",
+  "version": "0.0.1",
+  "description": "Traveler Card Sorter",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apechkin/js_tasks.git"
+  },
+  "keywords": [
+    "cards",
+    "sorter"
+  ],
+  "author": "Anatoliy Pechkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apechkin/js_tasks/issues"
+  },
+  "homepage": "https://github.com/apechkin/js_tasks#readme"
+}
