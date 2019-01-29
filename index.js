@@ -1,5 +1,1 @@
-const cardsList = require('./cards')
-const Cards = require('./src')
-const cards = new Cards(cardsList)
-let sorted = cards.sort()
-console.log(sorted)
+module.exports = require('./lib')
